@@ -1,0 +1,238 @@
+body
+{
+	background-color: #404040;
+	font-family: 'Lato', sans-serif;
+}
+
+#container
+{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#logo
+{
+	color: white;
+	margin-top: 20px;
+	font-size: 44px;
+	letter-spacing: 3px;
+	font-weight: 900;
+	text-align: center;
+	box-shadow: 0px 18px 43px 15px rgba(255, 107,80.588);
+	width: 1157px;
+	background-color: #404040;
+}
+
+#menu
+{
+	background: #303030;
+	margin-top: 20px;
+	color:#ffffff;
+	padding:10px;
+	width: 1138px;
+	
+	
+	
+}
+
+#topbar
+{
+	background-color: #7d2424;
+	color:white;
+	padding:10px;
+	margin-top:20px;
+	margin-bottom:5px;
+	height: 170px;
+	width: 1132px;
+	border: 4px solid #20211f;
+	
+	
+	
+}
+
+#topbarL
+{
+	float: left;
+	padding:2px;
+	width:150px;
+	text-align: center;
+	
+}
+
+#topbarR
+{
+	float:left;
+	
+	padding-left:20px;
+	padding-top:10px;
+	width: 771px;
+	font-size: 16px;
+	text-align: justify;
+	margin-left: 120px;
+	
+}
+
+#sidebar
+{
+	float: left;
+	width:216px;
+	min-height: 703px;
+	padding:20px;
+	text-align: center;
+	font-size: 18px;
+	border-top: 4px solid #20211f;
+	border-left:4px solid #20211f;
+	border-bottom: 4px solid #20211f;
+	background: #303030;
+	color:#ffffff;
+}
+
+#content
+{
+	float: left;
+	padding-left:30px;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	width: 852px;
+	min-height: 708px;
+	text-align:justify;
+	border-top: 4px solid #20211f;
+	border-right:4px solid #20211f;
+	border-bottom: 4px solid #20211f;
+	border-left: 4px solid #20211f;
+	background-color: #909090;
+	
+	
+}
+
+
+#footer
+{
+	clear:both;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	font-size: 15px;
+}
+
+
+.option
+{
+	float:left;
+	min-width: 50px;
+	height: 25px;
+	font-size:18px;
+	padding: 10px;
+	padding-left: 25px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+	padding: 20px;
+	width: 145px;
+	text-align:center;
+	
+	
+}
+
+.option:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.optioncontact
+{
+	float:left;
+	min-width: 50px;
+	height: 25px;
+	font-size:18px;
+	padding: 10px;
+	opacity: 0.8;
+	padding: 20px;
+	width: 145px;
+	text-align:center;
+	
+}
+
+.optioncontact:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+	
+}
+
+
+
+.optionL
+{
+	font-size: 28px;
+	height:25px;
+	padding:10px;
+	border-bottom: 2px dotted #444444;
+	padding-bottom: 15px;
+	clear:both;
+	
+}
+
+.optionL:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+	
+}
+
+.facebook
+{
+	font-size: 28px;
+	height:25px;
+	padding:10px;
+	border-bottom: 2px dotted #444444;
+	padding-bottom: 25px;
+	
+}
+
+.facebook:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+	
+}
+
+.instagram
+{
+	font-size: 28px;
+	height:25px;
+	padding:10px;
+	border-bottom: 2px dotted #444444;
+	padding-bottom: 25px;
+}
+
+.instagram:hover
+{
+	background-color: #000000;
+	cursor: pointer;
+}
+
+.sociallink
+{
+	text-decoration: none;
+	color: #ffffff;
+	display: block;
+}
+
+.bigtitle
+{
+	font-size: 32px;
+	font-weight: 900;
+	letter-spacing: 2px;
+}
+
+.dottedline
+{
+	height: 5px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	border-bottom: 2px dotted;
+}
+
